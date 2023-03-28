@@ -1,4 +1,4 @@
-# Practica1LabSisOper
+# Sistemas Operativos Lab1-20231
 
 1. Para crear el ejecutable de este programa abra una terminal en el directorio y escriba el siguiente codigo: `gcc main.c linkedlist.c base_struct.c menu.c vector_struct.c -o exe `.
 Puede cambiar el nombre `exe` en el codigo por cualquier nombre que quiera que tenga su ejecutable.
